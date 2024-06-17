@@ -1,2 +1,4 @@
 # ML-in-Hydrogen-Energy-Transformation-Electrocatalysts-Review
-Repository of review article "Unlocking the Potential: Machine Learning Applications in Electrocatalyst Design for Electrochemical Hydrogen Energy Transformation"
+This is the repository of review article "Unlocking the Potential: Machine Learning Applications in Electrocatalyst Design for Electrochemical Hydrogen Energy Transformation"
+The Table mentioned in the manuscript Table 1 is available here.
+Please cite if use.
